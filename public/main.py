@@ -7,6 +7,7 @@ from core.route import Route
 route = Route.bind(main_app)
 
 import routes.web
+import routes.api
 
 from modules import modules
 

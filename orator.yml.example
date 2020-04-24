@@ -1,0 +1,7 @@
+databases:
+    mysql:
+        driver: mysql
+        host: localhost
+        database: paravel
+        user: root
+        password: ''
