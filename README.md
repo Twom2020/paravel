@@ -12,6 +12,11 @@ pip install -r requirement.txt
 
 create **.env** file like *.env.example* and for work with migrations create **orator.yml** like *orator.yml.example* for configuration database.
 
+##### run this command for create tables:
+```
+orator migrate
+```
+
 ### for run project:
 ```
 flask run
